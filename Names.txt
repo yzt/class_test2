@@ -3,9 +3,19 @@ No. | Name               | Email                  | GitHub Username
  0  | Yaser Zhian        | yaserzt@gmail.com      | yzt
  1  |                   |                        | 
  2  |                    |                        | 
+<<<<<<< HEAD
  3  | Poorya Shafiei     |BlueSama@rocketmail.com |PooryaShafiei        |                        | 
+=======
+<<<<<<< HEAD
+ 3  |                    |                        | 
+ 4  |Ehsan Akrami        |RealArt1373@gmail.com   | RealArt1994
+ 5  |vahid fazaely       |vahid0021@yahoo.com     | 
+=======
+ 3  | Poorya Shafiei       BlueSama@rocketmail.com   PooryaShafiei        |                        | 
+>>>>>>> 9f481d36ce4d03e4b670238457eaee73433fe5ca
  4  |                    |                        | 
  5  |                    |                        | 
+>>>>>>> a80dee23198d5bde1b6669f6a3db28fc2b6fc487
  6  |                    |                        | 
  7  |                    |                        | 
  8  |                    |                        | 
