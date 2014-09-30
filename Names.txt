@@ -1,7 +1,7 @@
 No. | Name               | Email                  | GitHub Username
 ----+--------------------+------------------------+----------------------
  0  | Yaser Zhian        | yaserzt@gmail.com      | yzt
- 1  | Mahdi Sadri        | sadri.2020@yahoo.com   | sadri2020
+ 1  |                    |                        | 
  2  |                    |                        | 
  3  |                    |                        | 
  4  |                    |                        | 
